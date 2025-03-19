@@ -28,3 +28,7 @@ model.fit(X_train, y_train)
 # Save model
 joblib.dump(model, "route_prediction_model.pkl")
 print("✅ Model trained & saved!")
+
+
+
+
