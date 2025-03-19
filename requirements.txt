@@ -1,1 +1,7 @@
-"streamlit\nfolium\nstreamlit-folium\nrequests\njoblib\npandas\nopenrouteservice" 
+streamlit
+folium
+streamlit-folium
+requests
+joblib
+pandas
+openrouteservice
