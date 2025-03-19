@@ -1,0 +1,1 @@
+"streamlit\nfolium\nstreamlit-folium\nrequests\njoblib\npandas\nopenrouteservice" 
